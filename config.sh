@@ -7,7 +7,7 @@ REMOTE_HOST="typo314demo"
 # Datenbank-Zugangsdaten
 DB_HOST="localhost"
 DB_USER="db257881_254"
-DB_PASS='GVb%#mObxjcs%v6hW$#K'
+DB_PASS="GVb%#mObxjcs%v6hW$#K"
 DB_NAME="db257881_254"
 
 # Pfade
