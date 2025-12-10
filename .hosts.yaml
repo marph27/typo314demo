@@ -1,0 +1,6 @@
+hosts:
+  production:
+    hostname: typo314demo.pwd-mediadesign.de
+    port: 22
+    remote_user:
+    deploy_path: ''
