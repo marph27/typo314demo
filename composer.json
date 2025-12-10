@@ -46,5 +46,8 @@
             "type": "path",
             "url": "./packages/*"
         }
-    }
+    },
+    "require-dev": {
+		"typo3/cms-extensionmanager": "^13.4"
+	}
 }
